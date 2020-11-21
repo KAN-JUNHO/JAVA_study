@@ -17,3 +17,4 @@ JVM 구조
 실행하는 방법
 javac 클래스명.java
 
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fs4PPN%2FbtqMM4pDZw3%2FGPoU2fUXPZAw6xcasL4Av1%2Fimg.png
